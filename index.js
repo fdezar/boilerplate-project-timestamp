@@ -1,12 +1,9 @@
-// setup
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
-// FCC Test
-var cors = require('cors');
+let cors = require('cors');
 app.use(cors({optionsSuccessStatus: 200})); 
 
-// app.use(express.static('public'));
 app.use(express.static(__dirname + '/public'));
 
 app.get("/", (req, res) => {
@@ -42,9 +39,7 @@ app.get("/api", (req, res) => {
   });
 });
   
-
-// port 3000
-var listener = app.listen(process.env.PORT || 3000, function () {
+let listener = app.listen(process.env.PORT || 3000, function () {
   console.log('Your app is listening on port ' + listener.address().port);
 });
 
