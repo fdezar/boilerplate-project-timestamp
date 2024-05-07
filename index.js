@@ -42,6 +42,3 @@ app.get("/api", (req, res) => {
 let listener = app.listen(process.env.PORT || 3000, function () {
   console.log('Your app is listening on port ' + listener.address().port);
 });
-
-// http://expressjs.com/en/starter/static-files.html
-// http://expressjs.com/en/starter/basic-routing.html
