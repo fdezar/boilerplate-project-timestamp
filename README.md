@@ -46,12 +46,12 @@ npm start
 
 4. Access the application at http://localhost:3000.
 
-## Dependencies 📦
+## Dependencies 📦
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js.
 - CORS: Middleware for enabling Cross-Origin Resource Sharing in Express.js.
 
 ## License 📄
 This project is licensed under the MIT License.
 
-## Deploy 🙌
+## Deploy 🙌
 https://timestamp-project.vercel.app
