@@ -34,7 +34,7 @@ Timestamp Microservice is a simple web application that allows users to convert 
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/timestamp-microservice.git
+git clone https://github.com/fdezar/timestamp-microservice.git
 
 2. Install dependencies:
 
