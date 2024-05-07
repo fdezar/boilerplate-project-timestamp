@@ -28,8 +28,9 @@ Timestamp Microservice is a simple web application that allows users to convert 
   "unix": 1451001600000,
   "utc": "Fri, 25 Dec 2015 00:00:00 GMT"
 }
+```
 
-## Installation and Setup 🛠️
+### Installation and Setup 🛠️
 
 1. Clone this repository:
 
