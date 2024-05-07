@@ -36,7 +36,7 @@ Timestamp Microservice is a simple web application that allows users to convert 
 
 git clone https://github.com/your-username/timestamp-microservice.git
 
-2.Install dependencies:
+2. Install dependencies:
 
 npm install
 
@@ -50,8 +50,8 @@ npm start
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js.
 - CORS: Middleware for enabling Cross-Origin Resource Sharing in Express.js.
 
-License 📄
+## License 📄
 This project is licensed under the MIT License.
 
-Deploy 🙌
+## Deploy 🙌
 https://timestamp-project.vercel.app
